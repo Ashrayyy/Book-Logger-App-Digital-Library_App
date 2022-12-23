@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Book Logs</string>
+    <string name="continue_without_login">Continue without Login</string>
+    <string name="login">Login</string>
+    <string name="say_hello_to_digital_logger_library">Say Hello to Digital Logger Library</string>
+    <string name="todo">TODO</string>
+    <string name="sign_up"><b>Sign Up</b></string>
+</resources>

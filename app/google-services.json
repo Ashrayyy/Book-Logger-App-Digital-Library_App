@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "550281852501",
+    "project_id": "book-logs",
+    "storage_bucket": "book-logs.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:550281852501:android:60f377db6f40bdf0b206dc",
+        "android_client_info": {
+          "package_name": "com.ashray.BookLogs"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "550281852501-3q2h24aeneibe4o5c8mstgaqpf4fpa2f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC0qnCss5rJlID6Ib472imWbfH7b3VR7Ts"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "550281852501-3q2h24aeneibe4o5c8mstgaqpf4fpa2f.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:550281852501:android:fbcccb139f95fa86b206dc",
+        "android_client_info": {
+          "package_name": "com.example.booklogs"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "550281852501-3q2h24aeneibe4o5c8mstgaqpf4fpa2f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC0qnCss5rJlID6Ib472imWbfH7b3VR7Ts"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "550281852501-3q2h24aeneibe4o5c8mstgaqpf4fpa2f.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
